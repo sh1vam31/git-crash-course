@@ -5,7 +5,3 @@ const name = "Vashu";
 function greet(name){
     return `Hello, ${name}!`;
 }
-
-function isAbove18(age) {
-    return age > 18;
-}
