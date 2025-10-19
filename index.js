@@ -5,3 +5,7 @@ const name = "Vashu";
 function greet(name){
     return `Hello, ${name}!`;
 }
+
+function newFn(){
+    console.log("This is a new function.");
+}
