@@ -9,3 +9,7 @@ function greet(name){
 function newFn(){
     console.log("This is a new function.");
 }
+
+function newFeature(){
+    console.log("This is a new feature added.");
+}
