@@ -3,7 +3,7 @@ console.log(`I am ${age} years old.`);
 
 const name = "Vashu";
 function greet(name){
-    return `Hello, ${name}!`;
+    return `Hello, ${name} , Good Morning!`;
 }
 
 function newFn(){
