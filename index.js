@@ -12,4 +12,5 @@ function newFn(){
 
 function newFeature(){
     console.log("This is a new feature added.");
+    console.log("Feature works perfectly!");
 }
